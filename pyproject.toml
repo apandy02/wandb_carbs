@@ -20,7 +20,6 @@ include = [
 
 [tool.poetry.dependencies]
 python = ">=3.10,<4.0"
-carbs = ">=0.0.1"
 wandb = ">=0.16"
 
 [tool.poetry.dev-dependencies]
